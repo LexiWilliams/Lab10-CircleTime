@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\bin\Debug\Lab10-CircleTime.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\bin\Debug\Lab10-CircleTime.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\bin\Debug\Lab10-CircleTime.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\obj\Debug\Lab10-CircleTime.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\obj\Debug\Lab10-CircleTime.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\obj\Debug\Lab10-CircleTime.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab10-CircleTime\Lab10-CircleTime\obj\Debug\Lab10-CircleTime.pdb
